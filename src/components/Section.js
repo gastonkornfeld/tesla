@@ -42,7 +42,7 @@ const Wrap = styled.div`
     backround-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: ${props => `url("/images/${props.backgroundImg}")`};
+    background-image: url('/images/accesories.jpg');
     display: flex;
     flex-direction: column;
     justify-content: space-between;
